@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PiLogSERN
 - 👀 I’m interested in developing web applications.
-- 🌱 I’m currently having two projects 1.Sell now,2.Resolve now
+- 🌱 I’m currently having two projects 1.Sell now 2.Resolve now
 - 💞️ I’m looking to collaborate on ...
-- 📫 MJR magnifique,Raidurgam,Hyderabad
+- 📫 MJR magnifique,Raidurgam,Hyderabad.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
